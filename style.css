@@ -8,7 +8,7 @@ body {
   background-color: lightgoldenrodyellow;
 }
 /* navbar css */
-.navbar{
+.navbar {
   position: sticky;
   top: 0px;
   z-index: 1000;
@@ -27,7 +27,6 @@ body {
 /* slides */
 .photo {
   height: 600px;
-
 }
 /* item-section*/
 .item-section {
