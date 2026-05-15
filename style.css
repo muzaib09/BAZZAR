@@ -46,13 +46,6 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-/* icon */
-.icon{
-  font-size: 40px;
-  position: fixed;
-  z-index: 9999;
-  left: 1180px;
-}
 /* footer */
 .row-footer {
   margin-top: 25px;
