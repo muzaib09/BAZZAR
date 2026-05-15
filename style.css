@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+  background-color: lightgoldenrodyellow;
+}
+/* navbar css */
+.navbar{
+  position: sticky;
+  top: 0px;
+  z-index: 1000;
+}
+.brand {
+  color: #0d6efd !important;
+  font-weight: bolder;
+}
+.form-control:focus {
+  box-shadow: none !important;
+  border: 1px solid #dee2e6 !important;
+}
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+/* slides */
+.photo {
+  height: 600px;
+
+}
+/* item-section*/
+.item-section {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* cards */
+.card-margin {
+  margin-top: 29px;
+}
+/* form-section */
+.contact-section {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* icon */
+.icon{
+  font-size: 40px;
+  position: fixed;
+  z-index: 9999;
+  left: 1180px;
+}
+/* footer */
+.row-footer {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background-color: rgb(247, 242, 242);
+  color: rgb(91, 85, 85);
+  text-align: center;
+  padding-bottom: 20px;
+}
